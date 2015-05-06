@@ -1,4 +1,4 @@
-# urlamigavel
+# Urlamigavel
 
 Ajuda na criacao a criacao de urls amigaveis.
 

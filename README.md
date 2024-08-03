@@ -1,6 +1,6 @@
 # Urlamigavel
 
-Ajuda na criacao a criacao de urls amigaveis.
+Ajuda na criacao de urls amigaveis.
 
 **Gera um arquivo .htaccess com as configuracoes **
 > (obs. o servidor precisa conter as permissoes para gravacao )

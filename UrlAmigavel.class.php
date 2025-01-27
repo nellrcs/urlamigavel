@@ -147,7 +147,7 @@ class UrlAmigavel
 		}
 	}
 
-	public static function execultar($campos_orden = null,$n_campos_validos = null)
+	public static function executar($campos_orden = null,$n_campos_validos = null)
 	{
 		if(self::url_get() == false || !empty($n_campos_validos))
 		{
